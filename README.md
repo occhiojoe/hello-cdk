@@ -20,6 +20,11 @@ This project uses AWS CDK to deploy a React application to an S3 bucket and dist
 `-- and many more...
 ```
 
+## Project Architecture
+
+![Screenshot 2024-07-30 at 3 55 13 PM](https://github.com/user-attachments/assets/a1b7d83c-a307-4122-bd0f-b5af99d79828)
+
+
 
 ## Prerequisites
 
