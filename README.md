@@ -4,19 +4,22 @@ This project uses AWS CDK to deploy a React application to an S3 bucket and dist
 
 ## Project Structure
 
+```
 .
-├── bin/
-│   └── hello-cdk.ts
-├── lib/
-│   └── hello-cdk-stack.ts
-├── dist/
-│   └── (React build files)
-├── src/
-│   └── (React code files)
-├── package.json
-├── README.md
-├── tsconfig.json
-├── any many more...
+|-- bin/
+|   `-- hello-cdk.ts
+|-- lib/
+|   `-- hello-cdk-stack.ts
+|-- dist/
+|   `-- (React build files)
+|-- src/
+|   `-- (React code files)
+|-- package.json
+|-- README.md
+|-- tsconfig.json
+`-- and many more...
+```
+
 
 ## Prerequisites
 
